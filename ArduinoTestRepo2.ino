@@ -6,7 +6,7 @@ Now it's Branched
 */
 
 void setup(){
-  pinMode(13, OUTPUT);
+  pinMode(4, OUTPUT);
   pinMode(9, OUTPUT);
 }
 
