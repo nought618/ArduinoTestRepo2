@@ -4,12 +4,12 @@ Just the loop
 */
 
 void loop(){
-  digitalWrite(13, HIGH);
+  digitalWrite(11, HIGH);
   delay(500);
-  digitalWrite(13,LOW);
+  digitalWrite(11,LOW);
   delay(500);
-  digitalWrite(13, HIGH);
+  digitalWrite(11, HIGH);
   delay(500);
-  digitalWrite(13,LOW);
+  digitalWrite(11,LOW);
   delay(300);
 }
